@@ -1,0 +1,104 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="BrettGraves.com" resolutions="1x" timestamp="1461245765553">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_gd.css" crc="4160882385" ref="graphic-design:boces-cover:hold-magnhild:conscience-café"/>
+    <file name="master_interior.css" crc="3992860729" ref="wizard-s-quest:graphic-design:slipping:boces-cover:powcraft:interactive-design:logo-factory:hold-magnhild:video-and-animation:evil-teacher:looking-forward:resume:conscience-café"/>
+    <file name="master_id.css" crc="350339834" ref="wizard-s-quest:powcraft:interactive-design:evil-teacher"/>
+    <file name="master_main.css" crc="3855808846" ref="wizard-s-quest:graphic-design:slipping:index:boces-cover:powcraft:interactive-design:logo-factory:hold-magnhild:video-and-animation:evil-teacher:looking-forward:resume:conscience-café"/>
+    <file name="master_va.css" crc="88687470" ref="slipping:logo-factory:video-and-animation:looking-forward"/>
+    <file name="wizard-s-quest.css" crc="137526742" ref="wizard-s-quest"/>
+    <file name="graphic-design.css" crc="3906983949" ref="graphic-design"/>
+    <file name="slipping.css" crc="459221222" ref="slipping"/>
+    <file name="index.css" crc="3940382232" ref="index"/>
+    <file name="boces-cover.css" crc="3956965833" ref="boces-cover"/>
+    <file name="powcraft.css" crc="3926505431" ref="powcraft"/>
+    <file name="interactive-design.css" crc="353208521" ref="interactive-design"/>
+    <file name="logo-factory.css" crc="533206281" ref="logo-factory"/>
+    <file name="hold-magnhild.css" crc="4059144827" ref="hold-magnhild"/>
+    <file name="video-and-animation.css" crc="281842207" ref="video-and-animation"/>
+    <file name="evil-teacher.css" crc="507756252" ref="evil-teacher"/>
+    <file name="looking-forward.css" crc="156223998" ref="looking-forward"/>
+    <file name="resume.css" crc="377701121" ref="resume"/>
+    <file name="conscience-caf_.css" crc="4211046202" ref="conscience-café"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume.indd" crc="377823972" seo="true" mt="1461086793000"/>
+    <file name="resume.pdf" crc="150700916" seo="true" mt="1461086857000"/>
+    <file name="manghild-~-boop-with-peachbg.png" crc="4202571075" seo="true" mt="1454531212000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="museredirect.js" crc="71780213" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:video-and-animation:resume:interactive-design:graphic-design"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+    <file name="museutils.js" crc="3790713428" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+    <file name="whatinput.js" crc="84559013" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+    <file name="pie.js" crc="3827607177" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.svg" crc="3876760168" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+    <file name="logo_poster_.png" crc="4262926492" ref="tablet>index"/>
+    <file name="gd-icon.svg" crc="188196070" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:graphic-design:hold-magnhild:boces-cover:conscience-café"/>
+    <file name="gd icon_poster_.png" crc="3917377670" ref="tablet>index"/>
+    <file name="v-a-icon.svg" crc="4168158778" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:video-and-animation:slipping:logo-factory:looking-forward"/>
+    <file name="v-a icon_poster_.png" crc="82880674" ref="tablet>index"/>
+    <file name="id-icon.svg" crc="4187730039" ref="tablet>index:tablet>resume:tablet>graphic-design:tablet>video-and-animation:tablet>interactive-design:index:interactive-design:evil-teacher:powcraft:wizard-s-quest"/>
+    <file name="id icon_poster_.png" crc="444185732" ref="tablet>index"/>
+    <file name="resume.jpg" crc="260026782" seo="true" ref="tablet>resume:resume"/>
+    <file name="resume2.jpg" crc="157387416" seo="true" ref="tablet>resume:resume"/>
+    <file name="manghild ~ boop with peachbg367x230.jpg" crc="4166113592" seo="true" ref="tablet>graphic-design"/>
+    <file name="cc-napkin2.jpg" crc="217737668" seo="true" ref="tablet>graphic-design:graphic-design:conscience-café"/>
+    <file name="budgetcover front169x226.jpg" crc="411046105" seo="true" ref="tablet>graphic-design"/>
+    <file name="looking forward show-crop-u2963.png" crc="168583348" ref="tablet>video-and-animation"/>
+    <file name="2016-02-27_183330.jpg" crc="4054553398" seo="true" ref="tablet>interactive-design:interactive-design:powcraft"/>
+    <file name="nzzs5iqcicir2fjgxoa2blzzcsyf8vttugc69kmp4jo.jpg" crc="1395715" seo="true" ref="tablet>interactive-design:interactive-design"/>
+    <file name="nawuwfenhsitx9qvopxutui3jwqgvio7_jgthisu3ui.jpg" crc="3941083221" seo="true" ref="tablet>interactive-design:interactive-design"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:video-and-animation"/>
+    <file name="u148-4.png" crc="3910604736" ref="video-and-animation:resume:interactive-design:graphic-design:hold-magnhild:slipping:evil-teacher:powcraft:wizard-s-quest:logo-factory:looking-forward:boces-cover:conscience-café"/>
+    <file name="looking forward show-crop-u1838.png" crc="425234410" ref="video-and-animation"/>
+    <file name="manghild ~ boop with peachbg253x158.jpg" crc="359159591" seo="true" ref="graphic-design"/>
+    <file name="budgetcover front116x156.jpg" crc="4043426035" seo="true" ref="graphic-design"/>
+    <file name="manghild ~ boop with peachbg.jpg" crc="4047745727" seo="true" ref="hold-magnhild"/>
+    <file name="fproj 2 dnd afterfix.swf" crc="4217823188" ref="wizard-s-quest"/>
+    <file name="looking forward show-crop-u1651.png" crc="3814818932" ref="looking-forward"/>
+    <file name="budgetcover front.jpg" crc="353657460" seo="true" ref="boces-cover"/>
+    <file name="budgetcover back.jpg" crc="535249493" seo="true" ref="boces-cover"/>
+    <file name="cc-napkin1.jpg" crc="4028390290" seo="true" ref="conscience-café"/>
+    <file name="cc-coffee1.png" crc="4055905311" seo="true" ref="conscience-café"/>
+    <file name="cc-coffee2.png" crc="413224437" seo="true" ref="conscience-café"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_id.css" crc="4043313207" ref="tablet>interactive-design"/>
+      <file name="master_va.css" crc="4131569571" ref="tablet>video-and-animation"/>
+      <file name="master_gd.css" crc="369783958" ref="tablet>graphic-design"/>
+      <file name="master_interior.css" crc="3980289829" ref="tablet>resume:tablet>video-and-animation:tablet>interactive-design:tablet>graphic-design"/>
+      <file name="master_main.css" crc="4018088170" ref="tablet>resume:tablet>video-and-animation:tablet>interactive-design:tablet>graphic-design:tablet>index"/>
+      <file name="resume.css" crc="4035051542" ref="tablet>resume"/>
+      <file name="video-and-animation.css" crc="4064498704" ref="tablet>video-and-animation"/>
+      <file name="interactive-design.css" crc="4225543238" ref="tablet>interactive-design"/>
+      <file name="graphic-design.css" crc="3834227220" ref="tablet>graphic-design"/>
+      <file name="index.css" crc="148393188" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4169202931" seo="true" mt="1461245634989" redirect="true"/>
+    <file name="resume.html" crc="55941357" seo="true" mt="1461245634989" redirect="true"/>
+    <file name="graphic-design.html" crc="1482751" seo="true" mt="1461245634989" redirect="true"/>
+    <file name="video-and-animation.html" crc="3779591601" seo="true" mt="1461245634989" redirect="true"/>
+    <file name="interactive-design.html" crc="491591653" seo="true" mt="1461245634989" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4290153970" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="video-and-animation.html" crc="3960400031" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="resume.html" crc="3805427791" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="interactive-design.html" crc="3992499086" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="graphic-design.html" crc="4196718286" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="hold-magnhild.html" crc="536050528" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="slipping.html" crc="452295552" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="evil-teacher.html" crc="4077687272" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="powcraft.html" crc="3861081321" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="wizard-s-quest.html" crc="4252872843" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="logo-factory.html" crc="4250782173" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="looking-forward.html" crc="429490068" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="boces-cover.html" crc="205520521" seo="true" mt="1461245719265" redirect="true"/>
+  <file name="conscience-café.html" crc="286273968" seo="true" mt="1461245719265" redirect="true"/>
+</manifest>

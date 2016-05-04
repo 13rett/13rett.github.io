@@ -1,0 +1,41 @@
+#u2825
+{
+	border-style: solid;
+	border-color: #1C502C;
+	background-color: #F0FFEB;
+	border-width: 0px 0px 4px;
+}
+
+#u2828
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u2811-4
+{
+	background-color: transparent;
+	color: #1C502C;
+	font-size: 60px;
+	line-height: 72px;
+	font-family: open-sans-condensed, sans-serif;
+	font-weight: 700;
+}
+
+#u2858
+{
+	background-color: #1C502C;
+	border-radius: 0px 0px 30px 30px ;
+}
+
+#u2808,#u2831,#u2833,#u2835
+{
+	background-color: transparent;
+}
+
+#u2809,#u2832,#u2834,#u2836
+{
+	display: block;
+}
+

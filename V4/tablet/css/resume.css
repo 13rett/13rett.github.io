@@ -1,0 +1,365 @@
+.version.resume /* version checker */
+{
+	color: #0000F0;
+	background-color: #820016;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 1023.95px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #B6C329;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-bottom: -55px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#u2825
+{
+	z-index: 23;
+	width: 696px;
+	position: relative;
+}
+
+#u2828
+{
+	z-index: 24;
+	width: 362px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 9px;
+}
+
+#u2808
+{
+	z-index: 25;
+	width: 95px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2809
+{
+	z-index: 26;
+}
+
+#u2811-4
+{
+	z-index: 27;
+	width: 269px;
+	min-height: 73px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+	left: 93px;
+}
+
+#u2858
+{
+	z-index: 31;
+	width: 319px;
+	margin-bottom: -12px;
+	position: relative;
+	margin-right: -10000px;
+	left: 437px;
+}
+
+#u2831
+{
+	z-index: 32;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+}
+
+#u2832
+{
+	z-index: 33;
+}
+
+#u2833
+{
+	z-index: 34;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 106px;
+}
+
+#u2834
+{
+	z-index: 35;
+}
+
+#u2835
+{
+	z-index: 36;
+	width: 106px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 213px;
+}
+
+#u2836
+{
+	z-index: 37;
+}
+
+#pu3117
+{
+	width: 0.01px;
+	margin-left: 78px;
+	margin-top: 19px;
+}
+
+#u3117
+{
+	z-index: 22;
+	width: 235px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 383px;
+	left: 62px;
+}
+
+#u2772
+{
+	z-index: 38;
+	width: 612px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u2777
+{
+	z-index: 43;
+	width: 613px;
+	height: 23px;
+	border-style: solid;
+	border-color: #1C502C;
+	background-color: transparent;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -4px;
+	border-width: 8px 0px 0px;
+}
+
+#pu2774
+{
+	width: 0.01px;
+	margin-left: 78px;
+	margin-top: 8px;
+}
+
+#u2774
+{
+	z-index: 40;
+	width: 612px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+}
+
+#u2776
+{
+	z-index: 42;
+	width: 612px;
+	height: 23px;
+	border-style: solid;
+	border-color: #1C502C;
+	background-color: transparent;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -4px;
+	border-width: 8px 0px 0px;
+}
+
+#pu2694
+{
+	width: 0.01px;
+	margin-left: 124px;
+	margin-top: -17px;
+}
+
+#u2694
+{
+	z-index: 2;
+	width: 139px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2695
+{
+	z-index: 3;
+	width: 139px;
+	height: 152px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2696
+{
+	z-index: 4;
+	width: 110px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 15px;
+}
+
+#u2697
+{
+	z-index: 5;
+}
+
+#u2709
+{
+	z-index: 6;
+	width: 127px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 139px;
+}
+
+#u2710
+{
+	z-index: 7;
+}
+
+#u2718
+{
+	z-index: 8;
+	width: 127px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 266px;
+}
+
+#u2719
+{
+	z-index: 9;
+}
+
+#u2727
+{
+	z-index: 10;
+	width: 127px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 17px;
+	left: 393px;
+}
+
+#u2728
+{
+	z-index: 11;
+}
+
+#pu2766-4
+{
+	width: 0.01px;
+	margin-left: 152px;
+	margin-top: -5px;
+}
+
+#u2766-4
+{
+	z-index: 12;
+	width: 98px;
+	min-height: 18px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+}
+
+#u3108
+{
+	z-index: 16;
+	width: 182px;
+	position: relative;
+	margin-right: -10000px;
+	left: 310px;
+}
+
+#u3110
+{
+	z-index: 17;
+	width: 182px;
+	padding-bottom: 4px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3109-4
+{
+	z-index: 18;
+	width: 182px;
+	min-height: 44px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+}
+
+.html
+{
+	background-color: #1C502C;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
