@@ -90,9 +90,6 @@ var __adobewebfontsappname__ = "muse";
     <div class="clip_frame pinned-colelem" id="u755"><!-- svg -->
      <img class="svg" id="u751" src="images/id-icon.svg" width="100" height="100" alt="" data-mu-svgfallback="images/id%20icon_poster_.png"/>
     </div>
-    
-    <div class="clearfix colelem" id="u1453-7"><!-- Flash notice -->
-        <p>If The box below is empty you must enable the adobe Flash plugin to see it.</p>
     <div class="shadow rounded-corners clearfix colelem" id="u1451"><!-- group -->
      <div class="grpelem" id="u1467"><!-- media frame -->
       <object type="application/x-shockwave-flash" data="images/fproj%202%20dnd%20afterfix.swf" width="676.6666666666667" height="492.121212121212" id="u1467_media">
@@ -114,7 +111,6 @@ var __adobewebfontsappname__ = "muse";
       </object>
      </div>
     </div>
-    </div><!-- Wrap the column around the flash to prevent whitespace below -->
     <div class="clearfix colelem" id="u1453-7"><!-- content -->
      <p>&nbsp;&nbsp;&nbsp;&nbsp; I made this game for fans of the fantasy genre and tabletop role-playing games. I structured the interactive animation to mimic a typical “one-shot” campaign in Dungeons and Dragons. This implies making a basic character and you finish the quest in one session. In this case retrieving a key from a dragon. I also incorporated a variety of unique mechanics so that each section uses it’s own mechanics to progress the story. Due to a small time constraint I was unable to create all the various assets for the project. To gather the art I used the site “opengameart.org” to gather resources I could use within Wizard’s Quest. I used this site because it has a large variety of works with licenses that allow use without needing to pay a licensing fee. I also needed to plan so that I’d have a working version done and then add the features I wanted so that if time ran out I had a working project even if it wasn’t as fleshed out as I originally planned. In order for me to ensure a working version of the game I also started with just the basics of the story with the simplest implementation needed. I then went back and added the features that I thought would be the most impactful one at a time. This allowed me to add features without needing to worry that it wouldn’t be finished in time.</p>
      <p>&nbsp;</p>
@@ -202,8 +198,7 @@ var __adobewebfontsappname__ = "muse";
    $(document).ready(function() { try {
 (function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
 for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
-typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();
-/* body */
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
